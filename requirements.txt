@@ -22,7 +22,7 @@ Django==2.0.6
 django-filter==1.0.4
 django-haystack==2.8.1
 django-redis==4.8.0
-djangorestframework==3.6.4
+djangorestframework==3.11.2
 elasticsearch==5.4.0
 filelock==2.0.12
 first==2.0.1
